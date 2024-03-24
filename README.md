@@ -1,2 +1,2 @@
-# H3BR2x-Hardware
-Hexabitz 2-Digit 7-Segment display Module Hardware Design
+# H08R7x-Hardware
+Hexabitz VL53L1 Time-of-Flight IR Sensor Module Hardware Design
